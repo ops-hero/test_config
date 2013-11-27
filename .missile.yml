@@ -24,4 +24,4 @@ live:
         secret_sauce:
             web:
                 uwsgi_port:     8998
-                url:            secret_sauce.com
+                url:            a_secret_sauce.com
